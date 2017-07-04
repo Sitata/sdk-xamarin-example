@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/btn_launch_alerts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/launch_alerts" />
+    <Button
+        android:id="@+id/btn_launch_advisories"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/launch_advisories" />
+    <Button
+        android:id="@+id/btn_launch_vaccinations"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/launch_vaccinations" />
+    <Button
+        android:id="@+id/btn_launch_medications"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/launch_medications" />
+    <Button
+        android:id="@+id/btn_launch_diseases"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/launch_diseases" />
+    <Button
+        android:id="@+id/btn_launch_hospitals"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/launch_hospitals" />
+    <Button
+        android:id="@+id/btn_launch_safety"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/launch_safety" />
+    <Button
+        android:id="@+id/btn_launch_emerg_nums"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/launch_emerg_nums" />
+<!--<Button
+        android:id="@+id/btn_launch_trip_builder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/launch_trip_builder" />-->
+    <Button
+            android:id="@+id/btn_launch_tests"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/launch_tests" />
+</LinearLayout>

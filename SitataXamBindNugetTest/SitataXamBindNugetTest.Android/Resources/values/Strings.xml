@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">SitataXamBindNugetTest.Android</string>
+
+    <string name="launch_alerts">Launch Alerts</string>
+    <string name="launch_advisories">Launch Advisories</string>
+    <string name="launch_vaccinations">Launch Vaccinations</string>
+    <string name="launch_medications">Launch Medications</string>
+    <string name="launch_diseases">Launch Diseases</string>
+    <string name="launch_hospitals">Launch Hospitals</string>
+    <string name="launch_safety">Launch Safety</string>
+    <string name="launch_emerg_nums">Launch Emerg Nums</string>
+    <string name="launch_trip_builder">Launch Trip Builder</string>
+    
+    <string name="launch_tests">Run Tests</string>
+
+</resources>
